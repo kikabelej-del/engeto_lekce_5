@@ -1,0 +1,6 @@
+Pizza
+
+Ingredience:
+- testo
+- rajčatova omačka
+- syr
